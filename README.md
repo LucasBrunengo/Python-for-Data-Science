@@ -148,6 +148,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Print the set and remove one color from it.
        - Create another set named `light_colors` and merge `colors` and `light_colors`.
 
+**Description:** A program that creates a set of colors, adds and removes elements, and prints the resulting set.
+
+* **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
+
+![Input Screenshot](path/to/your/input/screenshot.png)
+
+* **Output:** The output will show the set after adding a new color and removing one.
+
+![Output Screenshot](path/to/your/output/screenshot.png)
+
 ---
 
 ### **Exercise 8: Conditional Statements**
