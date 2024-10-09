@@ -183,7 +183,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Numbers from 1 to 20.
 
-![FizzBuzz Input](Screenshots/Session2_Ex1_Inp_FizzBuzz.png)
+![FizzBuzz Input](Screenshots/Session_2/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
   
 * Output: 
 
@@ -201,9 +201,9 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Mixed list
 
-![Data Filtering Input](Screenshots/Session2_Ex2_Inp_Data_Filtering.png)
+![Data Filtering Input](Screenshots/Session_2/Inputs/Session2_Ex2_Inp_Data_Filtering.png)
 
-![Data Filtering Input2](Screenshots/Session2_Ex2_Inp_Data_Filtering3.png)
+![Data Filtering Input2](Screenshots/Session_2/Inputs/Session2_Ex2_Inp_Data_Filtering3.png)
   
 * Output:
 
@@ -222,7 +222,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Tasks to add and an input to show the current tasks. 
 
-![To do list Input](Screenshots/Session2_Ex3_Inp_ToDoList.png)
+![To do list Input](Screenshots/Session_2/Inputs/Session2_Ex3_Inp_ToDoList.png)
   
 * Output:
 
@@ -239,7 +239,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Different Celsius values (22ºC, 46ºC, 51ºC, and 76ºC).
 
-![Temperature Converter Intput](Screenshots/Session2_Ex4_Inp_Temperature_Converter.png)
+![Temperature Converter Intput](Screenshots/Session_2/Inputs/Session2_Ex4_Inp_Temperature_Converter.png)
   
 * Output:
 
