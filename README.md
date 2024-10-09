@@ -152,11 +152,11 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
 
-![Input Screenshot](path/to/your/input/screenshot.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Colors.png)
 
 * **Output:** The output will show the set after adding a new color and removing one.
 
-![Output Screenshot](path/to/your/output/screenshot.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex7_Out_Colors.png)
 
 ---
 
