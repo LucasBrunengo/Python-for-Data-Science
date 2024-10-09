@@ -198,6 +198,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Write a program that uses a while loop to print numbers from 1 to 5.
       - Ensure the loop terminates correctly.
 
+**Description:** A program that prints numbers from 1 to 5 using a while loop.
+
+* **Input:** The initial value for the loop is set to `1`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop.png)
+
+* **Output:** The output will display the numbers from 1 to 5 printed sequentially.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex10_Out_While_Loop.png)
+
 ---
 
 ### **Exercise 11: Match Statement (Python 3.10+)**
