@@ -188,6 +188,7 @@ students = {
 }
 
 def avg_grades(student_grades):
+    # Function to calculate and print average grades for each student
     for student, grades in student_grades.items():
         if grades : # Check if there are grades
             average = sum(grades) / len(grades) # Calculate average
@@ -221,6 +222,7 @@ num_1_input = float(input("Enter the first number: "))  # e.g. 10
 num_2_input = float(input("Enter the second number: "))  # e.g. 5
 operator_input = input("Enter the operator (+, -, *, /): ")  # e.g. +
 
+# Calculate result and output it
 result = calculate(num_1_input, num_2_input, operator_input)
 
 print(f"The result of {num_1_input} {operator_input} {num_2_input} is: {result}")  # Output result
