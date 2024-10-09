@@ -182,6 +182,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Create a list of numbers from 1 to 5.
       - Use a for loop to iterate through the list and print each number.
 
+**Description:** A program that iterates through a list of numbers and prints each one using a for loop.
+
+* **Input:** A predefined list of numbers: `[1, 2, 3, 4, 5]`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop.png)
+
+* **Output:** The output will show each number printed on a new line.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex9_Out_For_Loop.png)
+
 ---
 
 ### **Exercise 10: While Loop**
