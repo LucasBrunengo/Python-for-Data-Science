@@ -117,7 +117,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A dictionary called `student` with keys: `name`, `age`, and `grade`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex5_Inp_Dic.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex5_Inp_Dictionaries..png)
 
 * **Output:** The output will show each key and its corresponding value from the dictionary.
 
@@ -152,7 +152,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Colors.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Lists..png)
 
 * **Output:** The output will show the set after adding a new color and removing one.
 
@@ -170,6 +170,8 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A user-input number (for example, `-5`).
 
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Cond..png)
+
 ![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Conditional.png)
 
 * **Output:** The output will display whether the number is positive, negative, or zero.
@@ -186,7 +188,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A predefined list of numbers: `[1, 2, 3, 4, 5]`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop..png)
 
 * **Output:** The output will show each number printed on a new line.
 
@@ -202,7 +204,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** The initial value for the loop is set to `1`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop..png)
 
 * **Output:** The output will display the numbers from 1 to 5 printed sequentially.
 
