@@ -116,6 +116,8 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Description: Create a function that prints "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both.
 
 * Input: Numbers from 1 to 20.
+
+![FizzBuzz Output](Screenshots/Session_2_Ex1_Inp_FizzBuzz.png)
   
 * Output: 
 
@@ -132,6 +134,8 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Description: Filter a list that contains a mix of integers, strings and floats to extract only integers.
 
 * Input: Mixed list
+
+![Data Filtering Output](Screenshots/Session_2_Ex2_Inp_Data_filtering.png)
   
 * Output:
 
@@ -149,6 +153,8 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Description: Create a simple to-do list application with functions to add and show tasks.
 
 * Input: Tasks to add.
+
+![To do list Input](Screenshots/Session_2_Ex3_Inp_ToDoList.png)
   
 * Output:
 
@@ -164,6 +170,8 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Description: Create a function that converts Celsius into Fahrenheit.
 
 * Input: Different Celsius values (22ºC, 46ºC, 51ºC, and 76ºC).
+
+![Temperature Converter Output](Screenshots/Session_2_Ex4_Inp_Temperature_converter.png)
   
 * Output:
 
