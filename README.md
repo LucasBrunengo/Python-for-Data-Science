@@ -117,11 +117,11 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A dictionary called `student` with keys: `name`, `age`, and `grade`.
 
-![Input Screenshot](path/to/your/input/screenshot.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex5_Inp_Dic.png)
 
 * **Output:** The output will show each key and its corresponding value from the dictionary.
 
-![Output Screenshot](path/to/your/output/screenshot.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex5_Out_Dic.png)
 
 ---
 
