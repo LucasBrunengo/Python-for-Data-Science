@@ -19,7 +19,7 @@ This repository contains solutions to various exercises focused on Python progra
    - [Exercise 8: Conditional Statements](#exercise-8-conditional-statements)
    - [Exercise 9: For Loop](#exercise-9-for-loop)
    - [Exercise 10: While Loop](#exercise-10-while-loop)
-   - [Exercise 11: Match Statement](#exercise-11-match-statement)
+   - [Exercise 11: Match Statement](#exercise-11-Match-Statement (Python 3.10+))
    - [Exercise 12: Define a Function](#exercise-12-define-a-function)
    - [Exercise 13: Function with Return Value](#exercise-13-function-with-return-value)
    - [Exercise 14: Function with Default Parameters](#exercise-14-function-with-default-parameters)
@@ -69,7 +69,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** Two predefined variables, `a` and `b`, with values 10 and 2 respectively.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2__Inp_Arithmetic.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2_Inp_Arithmetic..png)
 
 * **Output:** The output will show the sum, difference, product, and quotient of `a` and `b`.
 
@@ -84,7 +84,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A variable `name` assigned the value "Lucas".
 
-![Input String](Screenshots/Session%201/Inputs/Session1_Ex3_Inp_String.png)
+![Input String](Screenshots/Session%201/Inputs/Session1_Ex3_Inp_String..png)
 
 * **Output:** The output will display the message "Hello, Lucas!".
 
@@ -101,7 +101,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A predefined list of universities.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex4_Inp_Lists.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex4_Inp_Lists..png)
 
 * **Output:** The output will display the entire list and specify the first university as "UCC" and the last as "UTN".
 
@@ -117,7 +117,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A dictionary called `student` with keys: `name`, `age`, and `grade`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex5_Inp_Dic.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex5_Inp_Dictionaries..png)
 
 * **Output:** The output will show each key and its corresponding value from the dictionary.
 
@@ -152,7 +152,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Colors.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Lists..png)
 
 * **Output:** The output will show the set after adding a new color and removing one.
 
@@ -170,6 +170,8 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A user-input number (for example, `-5`).
 
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Cond..png)
+
 ![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Conditional.png)
 
 * **Output:** The output will display whether the number is positive, negative, or zero.
@@ -186,7 +188,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A predefined list of numbers: `[1, 2, 3, 4, 5]`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop..png)
 
 * **Output:** The output will show each number printed on a new line.
 
@@ -202,7 +204,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** The initial value for the loop is set to `1`.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop..png)
 
 * **Output:** The output will display the numbers from 1 to 5 printed sequentially.
 
@@ -221,11 +223,33 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
           - "F": "Failing."
       - Handle invalid input by printing a default message.
 
+**Description:** A program that takes a grade input from the user and prints a corresponding message using a match statement.
+
+* **Input:** A user-input grade (for example, `"A"`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex11_Inp_Match..png)
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex11_Inp_Match.png)
+
+* **Output:** The output will display "Excellent!" for grade "A".
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex11_Out_Match.png)
+
 ---
 
 ### **Exercise 12: Define a Function**
       - Write a function called `greet` that takes a name as an argument and prints "Hello, [name]!".
       - Call the function with your own name.
+
+**Description:** A program that defines and calls a function to greet the user by name.
+
+* **Input:** A variable `name` with the value `"Lucas"` passed to the function.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex12_Inp_Function.png)
+
+* **Output:** The output will display the greeting message "Hello, Lucas!".
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex12_Out_Function.png)
 
 ---
 
@@ -233,12 +257,32 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Define a function called `square` that takes a number as an argument and returns its square.
       - Print the result of calling this function with different numbers.
 
+**Description:** A program that defines a function to return the square of a number and prints the result.
+
+* **Input:** A variable passed to the function (for example, `4`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex13_Inp_Return.png)
+
+* **Output:** The output will display the squared value `16`.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex13_Out_Return.png)
+
 ---
 
 ### **Exercise 14: Function with Default Parameters**
       - Write a function called `multiply` that takes two parameters, `a` and `b`, and returns their product.
       - Set a default value of 1 for the parameter `b`.
       - Test the function with and without providing the second argument.
+
+**Description:** A program that defines a function with default parameters and tests it with different arguments.
+
+* **Input:** The function is called with one argument (for example, `3`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex14_Inp_Default.png)
+
+* **Output:** The output will show the product of the arguments.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex14_Out_Default.png)
 
 ---
 
