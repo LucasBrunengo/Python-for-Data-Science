@@ -86,7 +86,9 @@ add_task("Buy milk")  # Adding a task: "Buy milk"
 add_task("Call dad")  # Adding another task: "Call dad"
 show_tasks()  # Display all tasks in the list
 
-# (See screenshot of execution: Screenshots/Session 2. Ex 3. To do list.png)
+# (See screenshot of execution: 
+#   - Input: (Screenshots/Session 2/Inputs/Session2_Ex3_Inp_ToDoList..png)
+#   - Output: (Screenshots/Session 2/Outputs/Session2_Ex3_Out_ToDoList.png))
 
 '''
 Exercise 4: Temperature Converter
