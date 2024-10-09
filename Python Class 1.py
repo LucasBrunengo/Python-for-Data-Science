@@ -35,20 +35,20 @@ print(f"The first university is {universities[0]} and the last university is {un
 
 
 
-#Excercise 5
+# Exercise 5: Dictionaries
 
 student = {
             "Lucas" : {
                 "age" : 24, 
                 "grade" : 10 
-                },
+                }, # Student details for Lucas
             "Manuel" : {
                 "age" : 17,
                 "grade" : 9
-                },
+                }, # Student details for Manuel
             }
 
-print(student)
+print("Student information:", student)  # Output student information
 
 
 #Excercise 6
