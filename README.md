@@ -3,6 +3,10 @@
 Welcome to my Python Exercises repository. 
 This repository contains solutions to various exercises focused on Python programming concepts.
 
+## Table of contents
+
+1. Session 1
+2. [Session 2](#Session 2)
 Overview of Exercises:
 
 * Session 1 :
