@@ -1,34 +1,38 @@
-#Excercise 1
+# Exercise 1: Print a Greeting
 
-greeting = ("Hello, Python")
-print(greeting)
+greeting = "Hello, Python"  # Assign a greeting message to the variable
+print(greeting)  # Output the greeting message
 
-#Excercise 2
+# Exercise 2: Basic Arithmetic
 
-a = 10
-b = 2
+a = 10  # First number
+b = 2   # Second number
 
-summarize = (a + b) 
-diff = (a - b)
-product = (a * b)
-quotient = (a / b)
+# Performing basic arithmetic operations
+summarize = a + b  # Sum of a and b
+diff = a - b       # Difference between a and b
+product = a * b    # Product of a and b
+quotient = a / b   # Quotient of a divided by b
 
-print(sum) 
-print(diff)
-print(product)
-print(quotient)
-
-
-#Excercise 3
-name = "Lucas"
-print(f"Hello, {name}!")
+# Output results of arithmetic operations
+print(f"The sum of {a} and {b} is: {summarize}")  # Output: "The sum of 10 and 2 is: 12"
+print(f"The difference of {a} and {b} is: {diff}")  # Output: "The difference of 10 and 2 is: 8"
+print(f"The product of {a} and {b} is: {product}")  # Output: "The product of 10 and 2 is: 20"
+print(f"The quotient of {a} divided by {b} is: {quotient}")  # Output: "The quotient of 10 divided by 2 is: 5.0"
 
 
-#Excercise 4
+# Exercise 3: String Manipulation
 
-universities = ["UCC", "ESADE", "UBA", "UNC", "UTN"]
-print(universities)
-print(universities[0] + " " + universities[-1])
+name = "Lucas"  # Assign name to a variable
+print(f"Hello, {name}!")  # Output a greeting including the name
+
+
+# Exercise 4: Lists
+
+universities = ["UCC", "ESADE", "UBA", "UNC", "UTN"]  # List of university names
+print("List of universities:", universities)  # Output the list of universities
+print(f"The first university is {universities[0]} and the last university is {universities[-1]}.")  # Output first and last university
+
 
 
 #Excercise 5
