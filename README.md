@@ -105,7 +105,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Output:** The output will display the entire list and specify the first university as "UCC" and the last as "UTN".
 
-![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex4_Out_Lists2.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex4_Out_Lists.png)
 
 ---
 
