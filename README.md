@@ -1,18 +1,15 @@
 # Python Exercises Repository
 
 Welcome to my Python Exercises repository. 
-This repository contains solutions to various exercises focused on Python programming concepts
-
+This repository contains solutions to various exercises focused on Python programming concepts.
 
 Overview of Exercises:
 
 * Session 1:
-It includes exercises that cover basic syntax, variable definitions, arithmetic operations, and data structures such as lists, dictionaries, tuples, and sets.
 
-List of excercises: 
-Thanks for the clarification! Here’s the consolidated list of exercises for both Session 1 and Session 2 based on your updates:
+In Session 1, I learned the fundamental concepts of Python, including basic syntax, data types, and control structures. The exercises covered essential topics such as variables, arithmetic operations, string manipulation, and the use of lists, dictionaries, tuples, and sets.
 
-  Session 1: 
+  List of excercises: 
 
     Exercise 1: Print a Greeting
        - Write a Python program that prints a greeting message, such as "Hello, Python!".
@@ -100,7 +97,8 @@ Thanks for the clarification! Here’s the consolidated list of exercises for bo
 
 
 * Session 2:
-Exercises in this session conditional statements and loops (both for and while)
+
+In this session, I built upon the knowledge from Session 1, diving into more advanced topics like data filtering, function definitions, and practical applications.
 
 List of exercises: 
 
