@@ -227,6 +227,8 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A user-input grade (for example, `"A"`).
 
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex11_Inp_Match..png)
+
 ![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex11_Inp_Match.png)
 
 * **Output:** The output will display "Excellent!" for grade "A".
@@ -271,6 +273,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Write a function called `multiply` that takes two parameters, `a` and `b`, and returns their product.
       - Set a default value of 1 for the parameter `b`.
       - Test the function with and without providing the second argument.
+
+**Description:** A program that defines a function with default parameters and tests it with different arguments.
+
+* **Input:** The function is called with one argument (for example, `3`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex14_Inp_Default.png)
+
+* **Output:** The output will show the product of the arguments.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex14_Out_Default.png)
 
 ---
 
