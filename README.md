@@ -5,8 +5,11 @@ This repository contains solutions to various exercises focused on Python progra
 
 ## Table of contents
 
-1. Session 1
-2. [Session 2](#Session 2 :)
+2. [Session 2](#session-2)
+   - [Exercise 1: FizzBuzz](#exercise-1-fizzbuzz)
+   - [Exercise 2: Basic Data Filtering](#exercise-2-basic-data-filtering)
+   - [Exercise 3: Simple To-Do List](#exercise-3-simple-to-do-list)
+   - [Exercise 4: Temperature Converter](#exercise-4-temperature-converter)
 
 Overview of Exercises:
 
