@@ -52,11 +52,11 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** The program does not require user input. The output is predetermined.
 
-![Input Screenshot](path/to/your/input/screenshot.png)
+![Input Greeting](Screenshots/Session%201/Inputs/Session1_Ex1_Inp_Greeting.png)
 
 * **Output:** The output will display the greeting message "Hello, Python!".
 
-![Output Screenshot](path/to/your/output/screenshot.png)
+![Input Greeting](Screenshots/Session%201/Outputs/Session1_Ex1_Out_Greeting.png)
 
 ---
 
@@ -69,11 +69,11 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** Two predefined variables, `a` and `b`, with values 10 and 5 respectively.
 
-![Input Screenshot](path/to/your/input/screenshot.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2__Inp_Arithmetic.png)
 
 * **Output:** The output will show the sum, difference, product, and quotient of `a` and `b`.
 
-![Output Screenshot](path/to/your/output/screenshot.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex2__Out_Arithmetic_.png)
 
 ---
 
