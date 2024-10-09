@@ -95,12 +95,12 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
           - Performs the operation and returns the result.
           - Ask the user for the two numbers and the operator, then call the function and print the result.
 
+---
 
 * Session 2:
 
 In this session, I built upon the knowledge from Session 1, diving into more advanced topics like data filtering, function definitions, and practical applications.
 
----
 List of exercises: 
 
     Exercise 1: FizzBuzz
@@ -122,7 +122,8 @@ List of exercises:
 
 ---
 
-    Exercise 2: Basic Data Filtering
+**Exercise 2: Basic Data Filtering** (h2)
+
       - Create a list that contains a mix of integers, strings, and floats.
       - Use list comprehension to create a new list that contains only the integers from the original list.
       - Print the filtered list of integers.
@@ -137,7 +138,8 @@ List of exercises:
 
 ---
 
-    Exercise 3: Simple To-Do List (h2)
+**Exercise 3: Simple To-Do List** (h3)
+
       - Create an empty list called `todo_list`.
       - Define functions:
           - `add_task(task)` that adds a task to the list.
