@@ -19,7 +19,7 @@ This repository contains solutions to various exercises focused on Python progra
    - [Exercise 8: Conditional Statements](#exercise-8-conditional-statements)
    - [Exercise 9: For Loop](#exercise-9-for-loop)
    - [Exercise 10: While Loop](#exercise-10-while-loop)
-   - [Exercise 11: Match Statement](#Exercise-11-Match-Statement (Python 3.10+))
+   - [Exercise 11: Match Statement](#exercise-11-Match-Statement (Python 3.10+))
    - [Exercise 12: Define a Function](#exercise-12-define-a-function)
    - [Exercise 13: Function with Return Value](#exercise-13-function-with-return-value)
    - [Exercise 14: Function with Default Parameters](#exercise-14-function-with-default-parameters)
