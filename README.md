@@ -49,10 +49,14 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Write a Python program that prints a greeting message, such as "Hello, Python!".
 
 **Description:** A program that prints a greeting message.
+
 * **Input:** The program does not require user input. The output is predetermined.
-   ![Input Screenshot](path/to/your/input/screenshot.png)
+
+![Input Screenshot](path/to/your/input/screenshot.png)
+
 * **Output:** The output will display the greeting message "Hello, Python!".
-   ![Output Screenshot](path/to/your/output/screenshot.png)
+
+![Output Screenshot](path/to/your/output/screenshot.png)
 
 ---
 
@@ -60,6 +64,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Create a program that:
           - Defines two variables, `a` and `b`, with numerical values.
           - Prints their sum, difference, product, and quotient.
+
+**Description:** A program that performs basic arithmetic operations on two numerical variables.
+
+* **Input:** Two predefined variables, `a` and `b`, with values 10 and 5 respectively.
+
+![Input Screenshot](path/to/your/input/screenshot.png)
+
+* **Output:** The output will show the sum, difference, product, and quotient of `a` and `b`.
+
+![Output Screenshot](path/to/your/output/screenshot.png)
 
 ---
 
