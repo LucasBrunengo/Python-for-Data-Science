@@ -183,11 +183,11 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Numbers from 1 to 20.
 
-![FizzBuzz Input](Screenshots/Session_2/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
+![FizzBuzz Input](Screenshots/Session%202/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
   
 * Output: 
 
-![FizzBuzz Output](Screenshots/Session_2_Ex1_FizzBuzz.png)
+![FizzBuzz Output](Screenshots/Session%20/Outputs/Session_2_Ex1_FizzBuzz.png)
 
 ---
 
@@ -201,13 +201,13 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Mixed list
 
-![Data Filtering Input](Screenshots/Session_2/Inputs/Session2_Ex2_Inp_Data_Filtering.png)
+![Data Filtering Input](Screenshots/Session%202/Inputs/Session2_Ex2_Inp_Data_Filtering.png)
 
-![Data Filtering Input2](Screenshots/Session_2/Inputs/Session2_Ex2_Inp_Data_Filtering3.png)
+![Data Filtering Input2](Screenshots/Session%202/Inputs/Session2_Ex2_Inp_Data_Filtering3.png)
   
 * Output:
 
-![Data Filtering Output](Screenshots/Session_2_Ex2_Data_filtering.png)
+![Data Filtering Output](Screenshots/Session%20/Outputs/Session_2_Ex2_Data_filtering.png)
 
 ---
 
@@ -226,7 +226,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
   
 * Output:
 
-![To do list Output](Screenshots/Session_2_Ex3_To_do_list.png)
+![To do list Output](Screenshots/Session%20/Outputs/Session_2_Ex3_To_do_list.png)
 
 ---
 
@@ -239,10 +239,10 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Different Celsius values (22ºC, 46ºC, 51ºC, and 76ºC).
 
-![Temperature Converter Intput](Screenshots/Session_2/Inputs/Session2_Ex4_Inp_Temperature_Converter.png)
+![Temperature Converter Intput](Screenshots/Session%202/Inputs/Session2_Ex4_Inp_Temperature_Converter.png)
   
 * Output:
 
-![Temperature Converter Output](Screenshots/Session_2_Ex4_Temperature_converter.png)
+![Temperature Converter Output](Screenshots/Session%20/Outputs/Session_2_Ex4_Temperature_converter.png)
 
 
