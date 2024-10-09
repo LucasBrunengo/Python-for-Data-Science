@@ -100,6 +100,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 In this session, I built upon the knowledge from Session 1, diving into more advanced topics like data filtering, function definitions, and practical applications.
 
+---
 List of exercises: 
 
     Exercise 1: FizzBuzz
@@ -119,11 +120,12 @@ List of exercises:
 
 ![FizzBuzz Output](Screenshots/Session_2_Ex1_FizzBuzz.png)
 
+---
 
     Exercise 2: Basic Data Filtering
-       - Create a list that contains a mix of integers, strings, and floats.
-       - Use list comprehension to create a new list that contains only the integers from the original list.
-       - Print the filtered list of integers.
+      - Create a list that contains a mix of integers, strings, and floats.
+      - Use list comprehension to create a new list that contains only the integers from the original list.
+      - Print the filtered list of integers.
        
 * Description: Filter a list that contains a mix of integers, strings and floats to extract only integers.
 
@@ -133,7 +135,9 @@ List of exercises:
 
 ![Data Filtering Output](Screenshots/Session_2_Ex2_Data_filtering.png)
 
-    Exercise 3: Simple To-Do List
+---
+
+    Exercise 3: Simple To-Do List (h2)
       - Create an empty list called `todo_list`.
       - Define functions:
           - `add_task(task)` that adds a task to the list.
@@ -147,7 +151,9 @@ List of exercises:
 
 ![To do list Output](Screenshots/Session_2_Ex3_To_do_list.png)
 
-    Exercise 4: Temperature Converter
+---
+
+    **Exercise 4: Temperature Converter** (h3)
       - Write a function `celsius_to_fahrenheit(celsius)` that converts Celsius to Fahrenheit.
       - Print the converted temperature for 22ºC, 46ºC, 51ºC, and 76ºC.
 
