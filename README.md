@@ -129,6 +129,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Define a tuple called `coordinates` with two values representing a point in 2D space (e.g., `(x, y)`).
        - Print the value of `coordinates` and access each element by its index.
 
+**Description:** A program that defines a tuple of coordinates and accesses each element by index.
+
+* **Input:** A tuple `coordinates` assigned the values `(5, 10)`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex6_Inp_Tuples.png)
+
+* **Output:** The output will display the entire tuple and individual coordinates accessed by their indices.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex6_Out_Tuples.png)
+
 ---
 
 ### **Exercise 7: Sets**
@@ -138,6 +148,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Print the set and remove one color from it.
        - Create another set named `light_colors` and merge `colors` and `light_colors`.
 
+**Description:** A program that creates a set of colors, adds and removes elements, and prints the resulting set.
+
+* **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Colors.png)
+
+* **Output:** The output will show the set after adding a new color and removing one.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex7_Out_Colors.png)
+
 ---
 
 ### **Exercise 8: Conditional Statements**
@@ -146,17 +166,47 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
          - Checks if the number is positive, negative, or zero.
          - Prints an appropriate message based on the result.
 
+**Description:** A program that checks if a user-input number is positive, negative, or zero.
+
+* **Input:** A user-input number (for example, `-5`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Conditional.png)
+
+* **Output:** The output will display whether the number is positive, negative, or zero.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex8_Out_Conditional.png)
+
 ---
 
 ### **Exercise 9: For Loop**
       - Create a list of numbers from 1 to 5.
       - Use a for loop to iterate through the list and print each number.
 
+**Description:** A program that iterates through a list of numbers and prints each one using a for loop.
+
+* **Input:** A predefined list of numbers: `[1, 2, 3, 4, 5]`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex9_Inp_For_Loop.png)
+
+* **Output:** The output will show each number printed on a new line.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex9_Out_For_Loop.png)
+
 ---
 
 ### **Exercise 10: While Loop**
       - Write a program that uses a while loop to print numbers from 1 to 5.
       - Ensure the loop terminates correctly.
+
+**Description:** A program that prints numbers from 1 to 5 using a while loop.
+
+* **Input:** The initial value for the loop is set to `1`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex10_Inp_While_Loop.png)
+
+* **Output:** The output will display the numbers from 1 to 5 printed sequentially.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex10_Out_While_Loop.png)
 
 ---
 
