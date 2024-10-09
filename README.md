@@ -22,6 +22,9 @@ This repository contains solutions to various exercises focused on Python progra
    - [Exercise 15: List Comprehension](#exercise-15-list-comprehension)
    - [Exercise 16: Nested Data Structures](#exercise-16-nested-data-structures)
    - [Exercise 17: Simple Calculator](#exercise-17-simple-calculator)
+
+---
+
 2. [Session 2](#session-2)
    - [Exercise 1: FizzBuzz](#exercise-1-fizzbuzz)
    - [Exercise 2: Basic Data Filtering](#exercise-2-basic-data-filtering)
