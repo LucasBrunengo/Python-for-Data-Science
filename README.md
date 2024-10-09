@@ -48,6 +48,12 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        
        - Write a Python program that prints a greeting message, such as "Hello, Python!".
 
+**Description:** A program that prints a greeting message.
+* **Input:** The program does not require user input. The output is predetermined.
+   ![Input Screenshot](path/to/your/input/screenshot.png)
+* **Output:** The output will display the greeting message "Hello, Python!".
+   ![Output Screenshot](path/to/your/output/screenshot.png)
+
 ---
 
 ### **Exercise 2: Basic Arithmetic**
