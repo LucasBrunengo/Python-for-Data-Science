@@ -17,21 +17,21 @@ def fizzbuzz(n):
     for i in range(1, n + 1):
         # Check if the number is a multiple of both 3 and 5
         if i % 3 == 0 and i % 5 == 0: 
-            print("FizzBuzz")  # Output for multiples of both 3 and 5
-        # Check if the number is a multiple of 3 only
-        elif i % 3 == 0: 
-            print("Fizz")  # Output for multiples of 3
-        # Check if the number is a multiple of 5 only
-        elif i % 5 == 0: 
-            print("Buzz")  # Output for multiples of 5
+            print(f"{i}: FizzBuzz")  # Output for multiples of both 3 and 5
+        elif i % 3 == 0:
+            print(f"{i}: Fizz")  # Output for multiples of 3
+        elif i % 5 == 0:
+            print(f"{i}: Buzz")  # Output for multiples of 5
         else:
-            print(i)  # Output the number itself for all other cases
+            print(f"{i}: {i}")  # Output the number itself if it’s not a multiple of 3 or 5
 
 
-# Call the function with n = 20
+# Call FizzBuzz function for numbers 1 to 20
 fizzbuzz(20)
 
-# (See screenshot of execution: Screenshots/Session 2. Ex 1. FizzBuzz.png)
+# (See screenshot of execution: 
+#   - Input: (Screenshots/Session%202/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
+#   - Output: (Screenshots/Session%202/Outputs/Session2_Ex1_Out_FizzBuzz.png))
 
 '''
 Exercise 2: Basic Data Filtering
@@ -49,10 +49,11 @@ Mixed_List = ["Lucas", 24, 24.7, "Agustin", 27, 27.9, "Manuel", 18, 18.1]
 # Create a new list that filters only integers from Mixed_List
 Int_List = [x for x in Mixed_List if isinstance(x, int)]
 
-# Output the filtered list of integers
-print(Int_List)
+print("Filtered list of integers:", Int_List)  # Output the filtered list of integers
 
-# (See screenshot of execution: Screenshots/Session 2. Ex 2. Data filtering.png)
+# (See screenshot of execution: 
+#   - Input: (Screenshots/Session%202/Inputs/Session2_Ex2_Inp_DataFiltering.png)
+#   - Output: (Screenshots/Session%202/Outputs/Session2_Ex2_Out_DataFiltering.png))
 
 '''
 Exercise 3: Simple To-Do List
@@ -70,7 +71,7 @@ todo_list = []
 # Function to add a task to the todo_list
 def add_task(task):
     todo_list.append(task)  # Add the task to the end of the list
-    print(f"'{task}' added to the list")  # Inform the user that the task was added
+    print(f"'{task}' has been added to the to-do list")  # Inform the user that the task was added
 
 # Function to display all tasks in the todo_list
 def show_tasks(): 
@@ -78,7 +79,7 @@ def show_tasks():
     if not todo_list:
         print("The list is empty")  # Inform the user that there are no tasks
     else: 
-        print(todo_list)  # Output all tasks in the list
+        print("Current tasks in the to-do list:", todo_list) # Output all tasks in the list
 
 # Add tasks to the to-do list
 add_task("Buy milk")  # Adding a task: "Buy milk"
