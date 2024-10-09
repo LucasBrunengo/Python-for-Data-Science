@@ -121,48 +121,50 @@ else:
     print("Loop Finished!")  # Final message indicating completion
 
 
-#Excercise 11
+# Exercise 11: Match Statement (Python 3.10+)
 
-grade = input("Enter a grade: ").upper()
+grade = input("Enter a grade: ").upper()  # Get user input for grade and convert to uppercase
 
 if grade == "A" :
-    print("Excellent")
+    print("Excellent") # Output for grade A
 elif grade == "B" :
-    print("Good Job")
+    print("Good Job") # Output for grade B
 elif grade == "C" :
-    print("Fair")
+    print("Fair") # Output for grade C
 elif grade == "D" :
-    print("Needs Improvement")
+    print("Needs Improvement") # Output for grade D
 elif grade == "F" :
-    print("Failing")
+    print("Failing") # Output for grade F
 else :
-    print("Invalid Input. Enter a valid grade (A, B, C, D, F)")
+    print("Invalid Input. Enter a valid grade (A, B, C, D, F)") # Output for invalid grade
 
 
-#Excercise 12
+#Excercise 12: Define a Function
 
 def greet(name) : 
     print(f"Hello, {name}")
 
-greet("Lucas")
+greet("Lucas") # Function to greet a user
 
 
-#Excercise 13
+# Exercise 13: Function with Return Value
 
-def square(number) :
-    return number ** 2
+def square(number):
+    return number ** 2  # Function to calculate square of a number
 
-print(square(2))
-print(square(3))
-print(square(4))
-print(square(5))
+# Output squares of numbers 2 to 5
+print(f"The square of 2 is: {square(2)}")  # Output for 2
+print(f"The square of 3 is: {square(3)}")  # Output for 3
+print(f"The square of 4 is: {square(4)}")  # Output for 4
+print(f"The square of 5 is: {square(5)}")  # Output for 5
 
-#Excercise 14
+#Excercise 14: Function with Default Parameters
 
-def multiply(a, b = 1) :
-    return a * b
+def multiply(a, b = 3) :
+    return a * b # Function to multiply two numbers, with a default value for b
 
-print(multiply(3))
+# Output multiplication of 3 by the default parameter 3
+print(f"Multiplying 3 by default parameter 3 gives: {multiply(3)}")  # Output for 3
 
 
 #Excercise 15
