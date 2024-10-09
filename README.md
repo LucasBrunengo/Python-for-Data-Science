@@ -137,7 +137,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 ![Data Filtering Input](Screenshots/Session2_Ex2_Inp_Data_Filtering.png)
 
-![Data Filtering Input2](Screenshots/Session2_Ex2_Inp_Data_Filtering2.png)
+![Data Filtering Input2](Screenshots/Session2_Ex2_Inp_Data_Filtering.png)
   
 * Output:
 
