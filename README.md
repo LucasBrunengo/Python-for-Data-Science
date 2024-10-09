@@ -291,11 +291,31 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Use list comprehension to create a new list that contains the squares of these numbers.
       - Print the new list.
 
+**Description:** A program that uses list comprehension to create a list of squares from 1 to 10.
+
+* **Input:** The range of numbers is defined from `1 to 10`.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex15_Inp_ListC.png)
+
+* **Output:** The output will display the list of squares.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex15_Out_ListC.png)
+
 ---
 
 ### **Exercise 16: Nested Data Structures**
       - Create a dictionary where the keys are names of students and the values are lists of their grades.
       - Write a function that takes the dictionary and prints the average grade for each student.
+
+**Description:** A program that calculates and prints the average grade for each student from a dictionary of grades.
+
+* **Input:** A predefined dictionary of students with their corresponding grades.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex16_Inp_Nested.png)
+
+* **Output:** The output will display the average grade for each student.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex16_Out_Nested.png)
 
 ---
 
@@ -304,6 +324,20 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
           - Defines a function `calculate` which takes three parameters: two numbers and an operator (`+`, `-`, `*`, `/`).
           - Performs the operation and returns the result.
           - Ask the user for the two numbers and the operator, then call the function and print the result.
+
+**Description:** This exercise involves creating a function called `calculate` that takes two numbers and an operator as input and performs the respective arithmetic operation (addition, subtraction, multiplication, or division).
+
+**Input:**  
+   - User provides two numbers (e.g., `10` and `5`).
+   - User selects an arithmetic operator (`+`, `-`, `*`, or `/`).
+
+![Simple Calculator Input](Screenshots/Session%201/Inputs/Session1_Ex17_Inp_Calculator.png)
+
+![Simple Calculator Input](Screenshots/Session%201/Inputs/Session1_Ex17_Inp_Calculator1.png)
+
+**Output:** The program prints the result of the chosen operation. For example, with input numbers `10` and `5`, and operator `+`, the output will be `15`.
+
+![Simple Calculator Output](Screenshots/Session%201/Outputs/Session1_Ex17_Out_Calculator.png)
 
 ---
 
