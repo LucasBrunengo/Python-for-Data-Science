@@ -5,7 +5,7 @@ This repository contains solutions to various exercises focused on Python progra
 
 ## Table of contents
 
-2. [Session 2 :](#session-2)
+2. [Session 2](#session-2)
    - [Exercise 1: FizzBuzz](#exercise-1-fizzbuzz)
    - [Exercise 2: Basic Data Filtering](#exercise-2-basic-data-filtering)
    - [Exercise 3: Simple To-Do List](#exercise-3-simple-to-do-list)
@@ -105,7 +105,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 ---
 
-# **Session 2 :** 
+#**[Session 2 :](#session-2)** 
 
 In this session, I built upon the knowledge from Session 1, diving into more advanced topics like data filtering, function definitions, and practical applications.
 
