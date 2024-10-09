@@ -133,11 +133,11 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A tuple `coordinates` assigned the values `(5, 10)`.
 
-![Input Screenshot](path/to/your/input/screenshot.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex6_Inp_Tuples.png)
 
 * **Output:** The output will display the entire tuple and individual coordinates accessed by their indices.
 
-![Output Screenshot](path/to/your/output/screenshot.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex6_Out_Tuples.png)
 
 ---
 
