@@ -129,6 +129,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Define a tuple called `coordinates` with two values representing a point in 2D space (e.g., `(x, y)`).
        - Print the value of `coordinates` and access each element by its index.
 
+**Description:** A program that defines a tuple of coordinates and accesses each element by index.
+
+* **Input:** A tuple `coordinates` assigned the values `(5, 10)`.
+
+![Input Screenshot](path/to/your/input/screenshot.png)
+
+* **Output:** The output will display the entire tuple and individual coordinates accessed by their indices.
+
+![Output Screenshot](path/to/your/output/screenshot.png)
+
 ---
 
 ### **Exercise 7: Sets**
