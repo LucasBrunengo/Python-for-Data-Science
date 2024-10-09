@@ -1,34 +1,41 @@
-#Excercise 1
+# Exercise 1: Print a Greeting
 
-greeting = ("Hello, Python")
-print(greeting)
+greeting = "Hello, Python"  # Assign a greeting message to the variable
 
-#Excercise 2
-
-a = 10
-b = 2
-
-summarize = (a + b) 
-diff = (a - b)
-product = (a * b)
-quotient = (a / b)
-
-print(sum) 
-print(diff)
-print(product)
-print(quotient)
+print(greeting)  # Output the greeting message
 
 
-#Excercise 3
-name = "Lucas"
-print(f"Hello, {name}!")
+# Exercise 2: Basic Arithmetic
+
+a = 10  # First number
+b = 2   # Second number
+
+# Performing basic arithmetic operations
+summarize = a + b  # Sum of a and b
+diff = a - b       # Difference between a and b
+product = a * b    # Product of a and b
+quotient = a / b   # Quotient of a divided by b
+
+# Output results of arithmetic operations
+print(f"The sum of {a} and {b} is: {summarize}")  # Print sum
+print(f"The difference of {a} and {b} is: {diff}")  # Print difference
+print(f"The product of {a} and {b} is: {product}")  # Print product
+print(f"The quotient of {a} divided by {b} is: {quotient}")  # Print quotient
+
+# Exercise 3: String Manipulation
+
+name = "Lucas"  # Assign name to a variable
+
+print(f"Hello, {name}!")  # Output a greeting including the name
 
 
 # Exercise 4: Lists
 
-universities = ["UCC", "ESADE", "UBA", "UNC", "UTN"]
-print(universities)
-print(universities[0] + " " + universities[4])
+universities = ["UCC", "ESADE", "UBA", "UNC", "UTN"]  # List of university names
+
+print("List of universities:", universities)  # Output the list of universities
+print(f"The first university is {universities[0]} and the last university is {universities[-1]}.")  # Output first and last university
+
 
 
 # Exercise 5: Dictionaries
@@ -55,56 +62,63 @@ print(f"The X coordinate is: {coordinates[0]}")  # Output the X coordinate
 print(f"The Y coordinate is: {coordinates[1]}")  # Output the Y coordinate
 
 
-#Excercise 7
+# Exercise 7: Sets
 
-colors = {"red", "green", "blue"}
-colors.add("black")
-print(colors)
+colors = {"red", "green", "blue"}  # Initial set of colors
+colors.add("black")  # Add 'black' to the set
+print("Current colors set after adding black:", colors)  # Output colors set
 
-colors.add("black")
-print(colors)
+colors.add("black")  # Adding 'black' again (no change in set)
+print("Colors set after trying to add black again (should remain unchanged):", colors)  # Output should remain unchanged
 
-colors.remove("black")
-print(colors)
+colors.remove("black")  # Remove 'black' from the set
+print("Current colors set after removing black:", colors)  # Output the modified colors set
 
-light_colors = {"light_red", "light_green", "light_blue"}
-print(light_colors)
+light_colors = {"light_red", "light_green", "light_blue"}  # Set of light colors
+print("Light colors set:", light_colors)  # Output light colors set
 
-merged_colors = colors.union(light_colors)
-print(merged_colors)
-
-
-#Excercise 8
-
-EX8 = int(input("Enter a number: "))
-
-if EX8 > 0 :  
-    print("The number is positive!")
-elif EX8 < 0 :
-    print("The number is negative!")
-else :   
-    print("The number is 0!")
+# Merging colors sets
+merged_colors = colors.union(light_colors)  # Union of the two sets
+print("Merged colors set:", merged_colors)  # Output merged set of colors
 
 
-#Excercise 9
+# Exercise 8: Conditional Statements
 
-List_1 = [1, 2, 3, 4, 5]
+EX8 = int(input("Enter a number: "))  # Get user input and convert to integer
 
-for number in List_1 : 
-    print(number)
-else : 
-    print("All numbers have been printed!")
+# Check the value of the input number and output corresponding message
+if EX8 > 0:
+    print(f"The number {EX8} is positive!")  # Output if the number is positive
+elif EX8 < 0:
+    print(f"The number {EX8} is negative!")  # Output if the number is negative
+else:
+    print("The number is 0!")  # Output if the number is zero
 
 
-#Excercise 10
+# Exercise 9: For Loop
 
-counter = 1
+List_1 = [1, 2, 3, 4, 5]  # List of numbers
 
-while counter <= 5: 
-    print(counter)
-    counter += 1
-else : 
-    print("Loop Finished!")
+print("Printing all numbers in the list:")
+# Loop through each number in the list and print it
+for number in List_1:
+    print(number)  # Output each number
+else:
+    print("All numbers have been printed!")  # Final message indicating completion
+
+
+# Exercise 10: While Loop
+
+counter = 1  # Initialize counter
+
+print("Counting from 1 to 5:")
+
+# While loop to count from 1 to 5
+while counter <= 5:
+    print(counter)  # Output current counter value
+    counter += 1  # Increment counter
+else:
+    print("Loop Finished!")  # Final message indicating completion
 
 
 #Excercise 11
