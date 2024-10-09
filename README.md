@@ -7,7 +7,7 @@ This repository contains solutions to various exercises focused on Python progra
 
 ---
 
-### [Session 1](#session-1)
+- **[Session 1](#session-1)** 
 
    - [Exercise 1: Print a Greeting](#exercise-1-print-a-greeting)
    - [Exercise 2: Basic Arithmetic](#exercise-2-basic-arithmetic)
@@ -29,7 +29,8 @@ This repository contains solutions to various exercises focused on Python progra
 
 ---
 
-### [Session 2](#session-2)
+### 
+- **[Session 2](#session-2)**
 
    - [Exercise 1: FizzBuzz](#exercise-1-fizzbuzz)
    - [Exercise 2: Basic Data Filtering](#exercise-2-basic-data-filtering)
@@ -97,7 +98,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
           - Print the entire list.
           - Print the first and last university in the list.
 
-**Description:** A program that creates a list of universities and prints the entire list along with the first and last university.
+**Description:** A program that creates a list of universities and prints the first and last university.
 
 * **Input:** A predefined list of universities.
 
@@ -148,13 +149,13 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Print the set and remove one color from it.
        - Create another set named `light_colors` and merge `colors` and `light_colors`.
 
-**Description:** A program that creates a set of colors, adds and removes elements, and prints the resulting set.
+**Description:** A program that creates a set of colors, adds and removes elements, and prints the resulting set. It also demonstrates how sets handle duplicate entries and the union operation to combine two sets.
 
-* **Input:** A set initialized with colors: `{"red", "green", "blue"}`.
+* **Input:** A predefined set of colors initialized with `{"red", "green", "blue"}`. The program adds the color `"black"` and attempts to add it again to observe how duplicates are managed. It also initializes another set, `light_colors`, with light color variants.
 
 ![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex7_Inp_Lists..png)
 
-* **Output:** The output will show the set after adding a new color and removing one.
+* **Output:** The program outputs the colors set after each operation, showing the effects of adding, removing, and merging sets.
 
 ![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex7_Out_Colors.png)
 
@@ -212,7 +213,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 ---
 
-### **Exercise 11: Match Statement (Python 3.10+)**
+### **Exercise 11: Match Statement**
       - Write a program that:
       - Asks the user to input a grade (e.g., "A", "B", "C", "D", or "F").
       - Use a match statement to print a corresponding message for each grade:
