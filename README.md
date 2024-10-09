@@ -111,6 +111,9 @@ List of exercises:
           - The number itself for other numbers
       - Call the function for numbers 1 to 20.
 
+![FizzBuzz Output](Screenshots/Session_2_Ex1_FizzBuzz.png)
+
+
     Exercise 2: Basic Data Filtering
        - Create a list that contains a mix of integers, strings, and floats.
        - Use list comprehension to create a new list that contains only the integers from the original list.
