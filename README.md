@@ -111,7 +111,7 @@ List of exercises:
           - The number itself for other numbers
       - Call the function for numbers 1 to 20.
 
-OUTPUT:
+* Output:
 
 ![FizzBuzz Output](Screenshots/Session_2_Ex1_FizzBuzz.png)
 
@@ -121,7 +121,7 @@ OUTPUT:
        - Use list comprehension to create a new list that contains only the integers from the original list.
        - Print the filtered list of integers.
 
-OUTPUT:
+* Output:
 
 ![Data Filtering Output](Screenshots/Session_2_Ex2_Data_filtering.png)
 
@@ -131,7 +131,7 @@ OUTPUT:
           - `add_task(task)` that adds a task to the list.
           - `show_tasks()` that prints all tasks in the list.
 
-OUTPUT:
+* Output:
 
 ![To do list Output](Screenshots/Session_2_Ex3_To_do_list.png)
 
@@ -139,7 +139,7 @@ OUTPUT:
       - Write a function `celsius_to_fahrenheit(celsius)` that converts Celsius to Fahrenheit.
       - Print the converted temperature for 22ºC, 46ºC, 51ºC, and 76ºC.
 
-OUTPUT:
+* Output:
 
 ![Temperature Converter Output](Screenshots/Session_2_Ex4_Temperature_converter.png)
 
