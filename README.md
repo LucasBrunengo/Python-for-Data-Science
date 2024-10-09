@@ -101,7 +101,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A predefined list of universities.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex4_Inp_Lists.png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex4_Inp_Lists..png)
 
 * **Output:** The output will display the entire list and specify the first university as "UCC" and the last as "UTN".
 
