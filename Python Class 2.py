@@ -30,8 +30,8 @@ def fizzbuzz(n):
 fizzbuzz(20)
 
 # (See screenshot of execution: 
-#   - Input: (Screenshots/Session%202/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
-#   - Output: (Screenshots/Session%202/Outputs/Session2_Ex1_Out_FizzBuzz.png))
+#   - Input: (Screenshots/Session 2/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
+#   - Output: (Screenshots/Session 2/Outputs/Session2_Ex1_Out_FizzBuzz.png))
 
 '''
 Exercise 2: Basic Data Filtering
@@ -52,8 +52,8 @@ Int_List = [x for x in Mixed_List if isinstance(x, int)]
 print("Filtered list of integers:", Int_List)  # Output the filtered list of integers
 
 # (See screenshot of execution: 
-#   - Input: (Screenshots/Session%202/Inputs/Session2_Ex2_Inp_DataFiltering.png)
-#   - Output: (Screenshots/Session%202/Outputs/Session2_Ex2_Out_DataFiltering.png))
+#   - Input: (Screenshots/Session 2/Inputs/Session2_Ex2_Inp_DataFiltering.png)
+#   - Output: (Screenshots/Session 2/Outputs/Session2_Ex2_Out_DataFiltering.png))
 
 '''
 Exercise 3: Simple To-Do List
@@ -109,5 +109,7 @@ print(f"46ºC equals to {celsius_to_fahrenheit(46)}ºF")
 print(f"51ºC equals to {celsius_to_fahrenheit(51)}ºF")
 print(f"76ºC equals to {celsius_to_fahrenheit(76)}ºF")
 
-# (See screenshot of execution: Screenshots/Session 2. Ex 4. Temperature converter.png)
+# (See screenshot of execution: 
+#   - Input: (Screenshots/Session 2/Inputs/Session2_Ex4_Inp_Temperature..png)
+#   - Output: (Screenshots/Session 2/Outputs/Session_2_Ex4_Temperature_converter.png))
 
