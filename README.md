@@ -361,7 +361,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Numbers from 1 to 20.
 
-![FizzBuzz Input](Screenshots/Session%202/Inputs/Session2_Ex1_Inp_FizzBuzz.png)
+![FizzBuzz Input](Screenshots/Session%202/Inputs/Session2_Ex1_Out_FizzBuzzz.png)
   
 * Output: 
 
