@@ -222,7 +222,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Tasks to add and an input to show the current tasks. 
 
-![To do list Input](Screenshots/Session_2/Inputs/Session2_Ex3_Inp_ToDoList.png)
+![To do list Input](Screenshots/Session%202/Inputs/Session2_Ex3_Inp_ToDoList.png)
   
 * Output:
 
