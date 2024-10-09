@@ -187,7 +187,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
   
 * Output: 
 
-![FizzBuzz Output](Screenshots/Session%20/Outputs/Session_2_Ex1_FizzBuzz.png)
+![FizzBuzz Output](Screenshots/Session%202/Outputs/Session_2_Ex1_FizzBuzz.png)
 
 ---
 
@@ -207,7 +207,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
   
 * Output:
 
-![Data Filtering Output](Screenshots/Session%20/Outputs/Session_2_Ex2_Data_filtering.png)
+![Data Filtering Output](Screenshots/Session%202/Outputs/Session_2_Ex2_Data_filtering.png)
 
 ---
 
@@ -226,7 +226,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
   
 * Output:
 
-![To do list Output](Screenshots/Session%20/Outputs/Session_2_Ex3_To_do_list.png)
+![To do list Output](Screenshots/Session%202/Outputs/Session_2_Ex3_To_do_list.png)
 
 ---
 
@@ -243,6 +243,6 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
   
 * Output:
 
-![Temperature Converter Output](Screenshots/Session%20/Outputs/Session_2_Ex4_Temperature_converter.png)
+![Temperature Converter Output](Screenshots/Session%202/Outputs/Session_2_Ex4_Temperature_converter.png)
 
 
