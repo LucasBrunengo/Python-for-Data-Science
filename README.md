@@ -135,7 +135,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Mixed list
 
-![Data Filtering Input](Screenshots/Session2_Ex2_Inp_Data_filtering.png)
+![Data Filtering Input](Screenshots/Session2_Ex2_Inp_Data_Filtering.png)
   
 * Output:
 
@@ -152,7 +152,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
           
 * Description: Create a simple to-do list application with functions to add and show tasks.
 
-* Input: Tasks to add.
+* Input: Tasks to add and an input to show the current tasks. 
 
 ![To do list Input](Screenshots/Session2_Ex3_Inp_ToDoList.png)
   
@@ -171,7 +171,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 * Input: Different Celsius values (22ºC, 46ºC, 51ºC, and 76ºC).
 
-![Temperature Converter Intput](Screenshots/Session2_Ex4_Inp_Temperature_converter.png)
+![Temperature Converter Intput](Screenshots/Session2_Ex4_Inp_Temperature_Converter.png)
   
 * Output:
 
