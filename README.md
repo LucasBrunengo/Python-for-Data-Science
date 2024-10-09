@@ -118,8 +118,6 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Input: Numbers from 1 to 20.
 
 ![FizzBuzz Input](Screenshots/Session2_Ex1_Inp_FizzBuzz.png)
-
-![FizzBuzz Input2](Screenshots/Session2_Ex1_Inp_FizzBuzz2.png)
   
 * Output: 
 
@@ -138,6 +136,8 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Input: Mixed list
 
 ![Data Filtering Input](Screenshots/Session2_Ex2_Inp_Data_Filtering.png)
+
+![Data Filtering Input2](Screenshots/Session2_Ex2_Inp_Data_Filtering2.png)
   
 * Output:
 
