@@ -84,7 +84,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** A variable `name` assigned the value "Lucas".
 
-![Input String](Screenshots/Session%201/Inputs/Session1_Ex3_Inp_String.png)
+![Input String](Screenshots/Session%201/Inputs/Session1_Ex3_Inp_String..png)
 
 * **Output:** The output will display the message "Hello, Lucas!".
 
