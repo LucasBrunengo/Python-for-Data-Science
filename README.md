@@ -69,7 +69,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Input:** Two predefined variables, `a` and `b`, with values 10 and 2 respectively.
 
-![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2__Inp_Arithmetic..png)
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2_Inp_Arithmetic..png)
 
 * **Output:** The output will show the sum, difference, product, and quotient of `a` and `b`.
 
