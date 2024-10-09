@@ -119,14 +119,20 @@ List of exercises:
        - Use list comprehension to create a new list that contains only the integers from the original list.
        - Print the filtered list of integers.
 
+![FizzBuzz Output](screenshots/Session_2_Ex2_Data_filtering.png)
+
     Exercise 3: Simple To-Do List
       - Create an empty list called `todo_list`.
       - Define functions:
           - `add_task(task)` that adds a task to the list.
           - `show_tasks()` that prints all tasks in the list.
 
+![FizzBuzz Output](screenshots/Session_2_Ex3_To_do_list.png)
+
     Exercise 4: Temperature Converter
       - Write a function `celsius_to_fahrenheit(celsius)` that converts Celsius to Fahrenheit.
       - Print the converted temperature for 22ºC, 46ºC, 51ºC, and 76ºC.
+
+![FizzBuzz Output](screenshots/Session_2_Ex4_Temperature_converter.png)
 
 
