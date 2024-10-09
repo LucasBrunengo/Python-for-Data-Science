@@ -237,6 +237,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Write a function called `greet` that takes a name as an argument and prints "Hello, [name]!".
       - Call the function with your own name.
 
+**Description:** A program that defines and calls a function to greet the user by name.
+
+* **Input:** A variable `name` with the value `"Lucas"` passed to the function.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex12_Inp_Function.png)
+
+* **Output:** The output will display the greeting message "Hello, Lucas!".
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex12_Out_Function.png)
+
 ---
 
 ### **Exercise 13: Function with Return Value**
