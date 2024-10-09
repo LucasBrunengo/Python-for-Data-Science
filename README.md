@@ -19,7 +19,7 @@ This repository contains solutions to various exercises focused on Python progra
    - [Exercise 8: Conditional Statements](#exercise-8-conditional-statements)
    - [Exercise 9: For Loop](#exercise-9-for-loop)
    - [Exercise 10: While Loop](#exercise-10-while-loop)
-   - [Exercise 11: Match Statement](#exercise-11-match-statement)
+   - [Exercise 11: Match Statement](#Exercise-11-Match-Statement (Python 3.10+))
    - [Exercise 12: Define a Function](#exercise-12-define-a-function)
    - [Exercise 13: Function with Return Value](#exercise-13-function-with-return-value)
    - [Exercise 14: Function with Default Parameters](#exercise-14-function-with-default-parameters)
@@ -220,6 +220,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
           - "D": "Needs improvement."
           - "F": "Failing."
       - Handle invalid input by printing a default message.
+
+**Description:** A program that takes a grade input from the user and prints a corresponding message using a match statement.
+
+* **Input:** A user-input grade (for example, `"A"`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex11_Inp_Match.png)
+
+* **Output:** The output will display "Excellent!" for grade "A".
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex11_Out_Match.png)
 
 ---
 
