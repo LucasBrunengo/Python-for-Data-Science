@@ -6,7 +6,7 @@ This repository contains solutions to various exercises focused on Python progra
 ## Table of contents
 
 1. Session 1
-2. [Session 2](#Session 2)
+2. [Session 2](#Session 2 :)
 
 Overview of Exercises:
 
