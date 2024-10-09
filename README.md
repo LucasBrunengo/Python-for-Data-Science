@@ -5,7 +5,7 @@ This repository contains solutions to various exercises focused on Python progra
 
 Overview of Exercises:
 
-* Session 1:
+* Session 1 :
 
 In Session 1, I learned the fundamental concepts of Python, including basic syntax, data types, and control structures. The exercises covered essential topics such as variables, arithmetic operations, string manipulation, and the use of lists, dictionaries, tuples, and sets.
 
@@ -97,7 +97,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 ---
 
-# ** Session 2:** 
+# **Session 2 :** 
 
 In this session, I built upon the knowledge from Session 1, diving into more advanced topics like data filtering, function definitions, and practical applications.
 
