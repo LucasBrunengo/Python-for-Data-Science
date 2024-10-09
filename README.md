@@ -103,7 +103,7 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 
 List of exercises: 
 
-**Exercise 1: FizzBuzz**
+## **Exercise 1: FizzBuzz**
       
       - Write a FizzBuzz function that takes an integer `n` as a parameter.
       - Implement FizzBuzz logic to print:
@@ -123,7 +123,7 @@ List of exercises:
 
 ---
 
-**Exercise 2: Basic Data Filtering** <h2>
+## **Exercise 2: Basic Data Filtering** 
 
       - Create a list that contains a mix of integers, strings, and floats.
       - Use list comprehension to create a new list that contains only the integers from the original list.
@@ -139,7 +139,7 @@ List of exercises:
 
 ---
 
-**Exercise 3: Simple To-Do List** <h3>
+## **Exercise 3: Simple To-Do List** 
 
       - Create an empty list called `todo_list`.
       - Define functions:
@@ -156,7 +156,7 @@ List of exercises:
 
 ---
 
-**Exercise 4: Temperature Converter** <h1>
+## **Exercise 4: Temperature Converter** 
       
       - Write a function `celsius_to_fahrenheit(celsius)` that converts Celsius to Fahrenheit.
       - Print the converted temperature for 22ºC, 46ºC, 51ºC, and 76ºC.
