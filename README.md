@@ -253,6 +253,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
       - Define a function called `square` that takes a number as an argument and returns its square.
       - Print the result of calling this function with different numbers.
 
+**Description:** A program that defines a function to return the square of a number and prints the result.
+
+* **Input:** A variable passed to the function (for example, `4`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex13_Inp_Return.png)
+
+* **Output:** The output will display the squared value `16`.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex13_Out_Return.png)
+
 ---
 
 ### **Exercise 14: Function with Default Parameters**
