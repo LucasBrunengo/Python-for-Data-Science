@@ -28,7 +28,7 @@ print(f"Hello, {name}!")
 
 universities = ["UCC", "ESADE", "UBA", "UNC", "UTN"]
 print(universities)
-print(universities[0] + " " + universities[4])
+print(universities[0] + " " + universities[-1])
 
 
 #Excercise 5
