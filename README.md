@@ -113,6 +113,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
        - Create a dictionary called `student` with keys: `name`, `age`, and `grade`, and assign appropriate values to each key.
        - Write a program that prints each key-value pair in the dictionary.
 
+**Description:** A program that creates a dictionary of student information and prints each key-value pair.
+
+* **Input:** A dictionary called `student` with keys: `name`, `age`, and `grade`.
+
+![Input Screenshot](path/to/your/input/screenshot.png)
+
+* **Output:** The output will show each key and its corresponding value from the dictionary.
+
+![Output Screenshot](path/to/your/output/screenshot.png)
+
 ---
 
 ### **Exercise 6: Tuples**
