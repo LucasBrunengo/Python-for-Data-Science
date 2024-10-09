@@ -166,6 +166,16 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
          - Checks if the number is positive, negative, or zero.
          - Prints an appropriate message based on the result.
 
+**Description:** A program that checks if a user-input number is positive, negative, or zero.
+
+* **Input:** A user-input number (for example, `-5`).
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex8_Inp_Conditional.png)
+
+* **Output:** The output will display whether the number is positive, negative, or zero.
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex8_Out_Conditional.png)
+
 ---
 
 ### **Exercise 9: For Loop**
