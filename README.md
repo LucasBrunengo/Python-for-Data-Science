@@ -73,7 +73,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 * **Output:** The output will show the sum, difference, product, and quotient of `a` and `b`.
 
-![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex2__Out_Arithmetic_.png)
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex2__Out_Arithmetic2_.png)
 
 ---
 
