@@ -31,7 +31,7 @@ def fizzbuzz(n):
 # Call the function with n = 20
 fizzbuzz(20)
 
-# (See screenshot of execution: screenshot_fizzbuzz.png)
+# (See screenshot of execution: Screenshots/Session 2. Ex 1. FizzBuzz.png)
 
 '''
 Exercise 2: Basic Data Filtering
@@ -52,7 +52,7 @@ Int_List = [x for x in Mixed_List if isinstance(x, int)]
 # Output the filtered list of integers
 print(Int_List)
 
-# (See screenshot of execution: screenshot_data_filtering.png)
+# (See screenshot of execution: Screenshots/Session 2. Ex 2. Data filtering.png)
 
 '''
 Exercise 3: Simple To-Do List
@@ -85,7 +85,7 @@ add_task("Buy milk")  # Adding a task: "Buy milk"
 add_task("Call dad")  # Adding another task: "Call dad"
 show_tasks()  # Display all tasks in the list
 
-# (See screenshot of execution: screenshot_todo_list.png)
+# (See screenshot of execution: Screenshots/Session 2. Ex 3. To do list.png)
 
 '''
 Exercise 4: Temperature Converter
@@ -106,5 +106,5 @@ print(f"46ºC equals to {celsius_to_fahrenheit(46)}ºF")
 print(f"51ºC equals to {celsius_to_fahrenheit(51)}ºF")
 print(f"76ºC equals to {celsius_to_fahrenheit(76)}ºF")
 
-# (See screenshot of execution: screenshot_temp_converter.png)
+# (See screenshot of execution: Screenshots/Session 2. Ex 4. Temperature converter.png)
 
