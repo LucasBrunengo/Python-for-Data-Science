@@ -12,18 +12,26 @@
 3. Call the Function: Call the function for numbers 1 to 20.
 '''
 
-def fizzbuzz(n) : 
-    for i in range(1, n + 1) :
-        if i % 3 == 0 and i % 5 == 0 : 
-            print("FizzBuzz") 
-        elif i % 3 == 0 : 
-            print("Fizz")
-        elif i % 5 == 0 : 
-            print("Buzz")
-        else :
-            print(i)
+def fizzbuzz(n): 
+    # Loop through numbers from 1 to n (inclusive)
+    for i in range(1, n + 1):
+        # Check if the number is a multiple of both 3 and 5
+        if i % 3 == 0 and i % 5 == 0: 
+            print("FizzBuzz")  # Output for multiples of both 3 and 5
+        # Check if the number is a multiple of 3 only
+        elif i % 3 == 0: 
+            print("Fizz")  # Output for multiples of 3
+        # Check if the number is a multiple of 5 only
+        elif i % 5 == 0: 
+            print("Buzz")  # Output for multiples of 5
+        else:
+            print(i)  # Output the number itself for all other cases
 
+
+# Call the function with n = 20
 fizzbuzz(20)
+
+# (See screenshot of execution: screenshot_fizzbuzz.png)
 
 '''
 Exercise 2: Basic Data Filtering
@@ -35,12 +43,16 @@ Exercise 2: Basic Data Filtering
 3. Print the New List: Output the filtered list of integers.
 '''
 
+# Create a list with mixed data types: strings, integers, and floats
 Mixed_List = ["Lucas", 24, 24.7, "Agustin", 27, 27.9, "Manuel", 18, 18.1]
 
+# Create a new list that filters only integers from Mixed_List
 Int_List = [x for x in Mixed_List if isinstance(x, int)]
 
+# Output the filtered list of integers
 print(Int_List)
 
+# (See screenshot of execution: screenshot_data_filtering.png)
 
 '''
 Exercise 3: Simple To-Do List
@@ -52,22 +64,28 @@ Exercise 3: Simple To-Do List
     * A function show_tasks() that prints all tasks in the list.
 '''
 
+# Initialize an empty list to hold tasks
 todo_list = []
 
-def add_task(task) :
-    todo_list.append(task)
-    print(f"'{task}' added to do the list")
+# Function to add a task to the todo_list
+def add_task(task):
+    todo_list.append(task)  # Add the task to the end of the list
+    print(f"'{task}' added to the list")  # Inform the user that the task was added
 
-def show_tasks() : 
-    if not todo_list :
-        print("The list is empty")
-    else : 
-        print(todo_list)
+# Function to display all tasks in the todo_list
+def show_tasks(): 
+    # Check if the todo_list is empty
+    if not todo_list:
+        print("The list is empty")  # Inform the user that there are no tasks
+    else: 
+        print(todo_list)  # Output all tasks in the list
 
+# Add tasks to the to-do list
+add_task("Buy milk")  # Adding a task: "Buy milk"
+add_task("Call dad")  # Adding another task: "Call dad"
+show_tasks()  # Display all tasks in the list
 
-add_task("Buy milk")
-add_task("Call dad")
-show_tasks()
+# (See screenshot of execution: screenshot_todo_list.png)
 
 '''
 Exercise 4: Temperature Converter
@@ -77,10 +95,16 @@ Exercise 4: Temperature Converter
 2. Print the Result: Output the converted temperature for 22ºF, 46ºF, 51ºF and 76ºF.
 '''
 
-def celsius_to_fahrenheit(celsius) :
+# Function to convert Celsius to Fahrenheit
+def celsius_to_fahrenheit(celsius):
+    # Conversion formula: (Celsius * 1.8) + 32
     return (celsius * 1.8) + 32
 
+# Print the converted temperatures using the conversion function
 print(f"22ºC equals to {celsius_to_fahrenheit(22)}ºF")
 print(f"46ºC equals to {celsius_to_fahrenheit(46)}ºF")
 print(f"51ºC equals to {celsius_to_fahrenheit(51)}ºF")
 print(f"76ºC equals to {celsius_to_fahrenheit(76)}ºF")
+
+# (See screenshot of execution: screenshot_temp_converter.png)
+
