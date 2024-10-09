@@ -168,57 +168,60 @@ def multiply(a, b = 3) :
 print(f"Multiplying 3 by default parameter 3 gives: {multiply(3)}")  # Output for 3
 
 
-#Excercise 15
+# Exercise 15: List Comprehension
 
-List_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+List_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  # List of numbers from 1 to 10
+Square_List_2 = [number ** 2 for number in List_2]  # List comprehension to square each number
 
-Square_List_2 = [number ** 2 for number in List_2]
+# Output original list and list of squares
+print("Original List:", List_2)  # Output original list
+print("List of squares:", Square_List_2)  # Output list of squares
 
-print(List_2)
-print(Square_List_2)
 
-
-#Excercise 16
+#Excercise 16: Nested Data Structures
 
 students = {
-    "Lucas" : [ 10, 8, 6, 10],
-    "Manuel" : [10, 8, 10, 9],
-    "Agustin" : [9, 7, 8, 8],
-    "Carlos" : []
+    "Lucas" : [ 10, 8, 6, 10], # Student grades for Lucas
+    "Manuel" : [10, 8, 10, 9], # Student grades for Manuel
+    "Agustin" : [9, 7, 8, 8], # Student grades for Agustin
+    "Carlos" : [] # No grades for Carlos
 }
 
 def avg_grades(student_grades):
     for student, grades in student_grades.items():
-        if grades : 
-            average = sum(grades) / len(grades)
-            print(f"{student}: {average}")
+        if grades : # Check if there are grades
+            average = sum(grades) / len(grades) # Calculate average
+            print(f"{student} has an average grade of: {average}") 
         else:
-            print(f"{student}: No record of grades.")
+            print(f"{student}: No record of grades.") # Output for students with no grades
 
-avg_grades(students)
+avg_grades(students) # Call function to display average grades
 
 
-#Excercise 17
+# Exercise 17: Simple Calculator
 
-def calculate(num_1, num_2, operator) :
-    if operator == "+" :
-        return num_1 + num_2
-    elif operator == "-" : 
-        return num_1 - num_2
-    elif operator == "*" :
-        return num_1 * num_2
-    elif operator == "/" :
-        if num_2 != 0 :
-            return num_1 / num_2 
-        else :
-            return "Error. Divided by zero."
-    else : 
-        return "Invalid operator!"
-    
-num_1_input = float(input("Enter the first number : "))
-num_2_input = float(input("Enter the second number: "))
-operator_input = input("Enter de operator (+, -, *, /): ")
+# Function to perform basic arithmetic based on operator
+def calculate(num_1, num_2, operator):
+    if operator == "+":
+        return num_1 + num_2  # Addition
+    elif operator == "-":
+        return num_1 - num_2  # Subtraction
+    elif operator == "*":
+        return num_1 * num_2  # Multiplication
+    elif operator == "/":
+        if num_2 != 0:  # Check for division by zero
+            return num_1 / num_2  # Division
+        else:
+            return "Error. Divided by zero."  # Error message for division by zero
+    else:
+        return "Invalid operator!"  # Error message for invalid operator
+
+# Get user input for calculation
+num_1_input = float(input("Enter the first number: "))  # e.g. 10
+num_2_input = float(input("Enter the second number: "))  # e.g. 5
+operator_input = input("Enter the operator (+, -, *, /): ")  # e.g. +
 
 result = calculate(num_1_input, num_2_input, operator_input)
-print(f"Result: {result}")
+
+print(f"The result of {num_1_input} {operator_input} {num_2_input} is: {result}")  # Output result
 
