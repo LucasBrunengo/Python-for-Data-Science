@@ -125,6 +125,7 @@ else:
 
 grade = input("Enter a grade: ").upper()  # Get user input for grade and convert to uppercase
 
+# Check the grade and print corresponding message
 if grade == "A" :
     print("Excellent") # Output for grade A
 elif grade == "B" :
