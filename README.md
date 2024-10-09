@@ -4,6 +4,9 @@ Welcome to my Python Exercises repository.
 This repository contains solutions to various exercises focused on Python programming concepts.
 
 ## Table of contents
+
+---
+
 1. [Session 1](#session-1)
    - [Exercise 1: Print a Greeting](#exercise-1-print-a-greeting)
    - [Exercise 2: Basic Arithmetic](#exercise-2-basic-arithmetic)
