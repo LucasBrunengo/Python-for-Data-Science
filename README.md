@@ -67,7 +67,7 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 
 **Description:** A program that performs basic arithmetic operations on two numerical variables.
 
-* **Input:** Two predefined variables, `a` and `b`, with values 10 and 5 respectively.
+* **Input:** Two predefined variables, `a` and `b`, with values 10 and 2 respectively.
 
 ![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex2__Inp_Arithmetic.png)
 
@@ -80,12 +80,32 @@ In Session 1, I learned the fundamental concepts of Python, including basic synt
 ### **Exercise 3: String Manipulation**
        - Define a variable `name` and assign it your name. Write a program that prints a message saying "Hello, [name]!" where `[name]` is the value of the variable.
 
+**Description:** A program that prints a message using a defined name variable.
+
+* **Input:** A variable `name` assigned the value "Lucas".
+
+![Input String](Screenshots/Session%201/Inputs/Session1_Ex3_Inp_String.png)
+
+* **Output:** The output will display the message "Hello, Lucas!".
+
+![Output String](Screenshots/Session%201/Outputs/Session1_Ex3_Out_String.png)
+
 ---
 
 ### **Exercise 4: Lists**
        - Create a list called `universities` with at least five different university names.
           - Print the entire list.
           - Print the first and last university in the list.
+
+**Description:** A program that creates a list of universities and prints the entire list along with the first and last university.
+
+* **Input:** A predefined list of universities.
+
+![Input Screenshot](Screenshots/Session%201/Inputs/Session1_Ex4_Inp_Lists.png)
+
+* **Output:** The output will display the entire list and specify the first university as "UCC" and the last as "UTN".
+
+![Output Screenshot](Screenshots/Session%201/Outputs/Session1_Ex4_Out_Lists.png)
 
 ---
 
