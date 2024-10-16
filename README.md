@@ -39,6 +39,66 @@ This repository contains solutions to various exercises focused on Python progra
 
 ---
 
+- **[Session 3](#session-3)**
+   - **[Exercise 1: Course Class](#exercise-1-course-class)**
+   - **[Exercise 2: Student Class](#exercise-2-student-class)**
+   - **[Exercise 3: Registration Class](#exercise-3-registration-class)**
+   - **[Exercise 4: Calculate GPA (Extended)](#exercise-4-calculate-gpa-extended)**
+
+---
+
+**[Session 4](#session-4)**
+- **[Exercise 1: Counting Files in a Directory](#exercise-1-counting-files-in-a-directory)**
+- **[Exercise 2: Validating File Names Against a Pattern](#exercise-2-validating-file-names-against-a-pattern)**
+- **[Exercise 3: Counting Annotations per Month](#exercise-3-counting-annotations-per-month)**
+- **[Exercise 4: Organizing Files into Monthly Folders](#exercise-4-organizing-files-into-monthly-folders)**
+- **[Exercise 5: Sorting Annotations](#exercise-5-sorting-annotations)**
+- **[Exercise 6: Identifying the Most Recent Annotation Satellite](#exercise-6-identifying-the-most-recent-annotation-satellite)**
+- **[Exercise 7: Counting Unique Regions](#exercise-7-counting-unique-regions)**
+
+---
+
+## Folder Structure
+
+<pre>
+/
+├── Screenshots/
+│   ├── Session 1/
+│   │   ├── Inputs/
+│   │   │   └── screenshot_input_1.png
+│   │   ├── Outputs/
+│   │       └── screenshot_output_1.png
+│   ├── Session 2/
+│   │   ├── Inputs/
+│   │   │   └── screenshot_input_2.png
+│   │   ├── Outputs/
+│   │       └── screenshot_output_2.png
+│   ├── Session 3/
+│   │   ├── Inputs/
+│   │   │   └── screenshot_input_3.png
+│   │   ├── Outputs/
+│   │       └── screenshot_output_3.png
+│   ├── Session 4/
+│   │   ├── Inputs/
+│   │   │   └── screenshot_input_4.png
+│   │   ├── Outputs/
+│   │       └── screenshot_output_4.png
+│
+├── Sessions/
+│   ├── Session 1/
+│   │   ├── Python Class 1.py
+│   │   └── README.md
+│   ├── Session 2/
+│   │   ├── Python Class 2.py
+│   │   └── README.md
+│   ├── Session 3/
+│   │   ├── Python Class 3.ipynb
+│   │   └── README.md
+│   ├── Session 4/
+│   │   ├── Python Class 4.ipynb
+│   │   └── README.md
+</pre>
+
 # **Session 1**
 
 In Session 1, I learned the fundamental concepts of Python, including basic syntax, data types, and control structures. The exercises covered essential topics such as variables, arithmetic operations, string manipulation, and the use of lists, dictionaries, tuples, and sets.
@@ -421,5 +481,249 @@ In this session, I built upon the knowledge from Session 1, diving into more adv
 * Output:
 
 ![Temperature Converter Output](Screenshots/Session%202/Outputs/Session_2_Ex4_Temperature_converter.png)
+
+
+---
+
+# **Session 3** 
+
+In Session 3, I explored object-oriented programming concepts in Python. This session focused on defining classes, managing attributes, and implementing methods. The exercises revolved around creating a simple course registration system that allows students to enroll in courses and manage their registrations.
+
+## **List of exercises:** 
+
+### **Exercise 1: Course Class**
+
+         - Create a **Course** class, where each course has a name, a description and a list of enrolled students. You'll need to implement the next methods:
+            - Add a student to the course.
+            - Remove a student from the course.
+            - Show all students in the course.
+
+* Description: A class representing a course with methods to manage students enrolled in the course.
+
+* Input:
+
+   - Course details such as:
+      - name: "Python Programming"
+      - course_type: "Online"
+      - Description: "Learn the fundamentals of Python programming."
+
+![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp3.png)
+
+![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp2.png)
+
+* Output:
+
+![Course_Class_Output](Screenshots/Session%203/Outputs/Session3_Ex1_Out.png)
+
+---
+
+### **Exercise 2: Student Class**
+
+      - Create a **Student** class, where each student has a name, ID number, address and a list of enrolled courses with the following methods:
+         - Enroll in a course.
+         - Drop a course.
+         - Show all registered student courses.
+
+* Description: A class representing a student with methods to show student information.
+
+* Input:
+
+   - Student details such as:
+      - Name: "Lucas Brunengo"
+      - ID: "LB0202"
+
+
+![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp.png)
+
+![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp2.png)
+
+* Output:
+
+![Course_Student_Output](Screenshots/Session%203/Outputs/Session3_Ex2_Out.png)
+
+---
+
+
+### **Exercise 3: Registration Class**
+
+      - Create a central class that manages courses and students, **Registration** class, where you have a list of students and a list of courses, and methods:
+          - Enroll in a course.
+          - Drop a course.
+          - Show all the enrolled courses.
+          - Show all the students.
+
+* Description: A class representing a registration system for managing courses.
+
+* Input:
+
+   - Course object to add to the registration system.
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp2.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp3.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp4.png)
+
+* Output:
+
+![Course_Registration_Output](Screenshots/Session%203/Outputs/Session3_Ex3_Out.png)
+
+---
+
+### **Exercise 4: Calculate GPA (Extended)**
+
+      - Let's add grades to each student's course and create method that yields the GPA given a student name or ID.
+
+* Description: A method added to the Course class that calculates the average GPA of enrolled students.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%203/Inputs/Session3_Ex4_Inp.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex4_Inp2.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex4_Inp3.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex4_Inp4.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex4_Inp5.png)
+
+![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex4_Inp6.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%203/Outputs/Session3_Ex4_Out.png)
+
+---
+
+# **Session 4** 
+
+In Session 4, I explored object-oriented programming concepts in Python. This session focused on defining classes, managing attributes, and implementing methods. The exercises revolved around creating a simple course registration system that allows students to enroll in courses and manage their registrations.
+
+## **List of exercises:** 
+
+### **Exercise 1: Counting files in a directory**
+
+      - How many files the annotations folder has.
+
+* Description: This exercise counts the total number of files in a specified annotations directory and prints the count.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex1_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex1_Out.png)
+
+---
+
+### **Exercise 2: Validating File Names Against a Pattern**
+      - {DATE}_{TIME}_SN{SATELLITE_NUMBER}_QUICKVIEW_VISUAL_{VERSION}_{UNIQUE_REGION}.txt
+
+         where:
+
+            - DATE expressed as YYYYMMDD (year, month and day), e.g. 20241201, 20230321 ...
+            - TIME expressed as HHMMSS (hour, minutes and seconds), e.g. 2134307
+            - SATELLITE_NUMBER an integer that represents the satellite number.
+            - VERSION provides the version of the pipeline, e.g. "0_1_2", "1_3_1" ...
+            - UNIQUE_REGION provides a unique location in the form of a string, e.g SATL-2KM-10N_552_4164
+            
+      - How many of them follow the name convention expressed above. 
+
+* Description: This exercise filters files based on a specific naming convention, counts valid and invalid files, and prints the results.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex2_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex2_Out.png)
+
+---
+
+### **Exercise 3: Counting Annotations per Month**
+
+      - How many of annotations you have per month and year. Which month has more annotation files.
+
+* Description: This exercise counts the number of annotations per month from valid files, tracks satellite counts, and finds the month with the most annotations.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex3_Inp.png)
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex3_Inp1.png)
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex3_Out.png)
+
+---
+
+### **Exercise 4: Organizing Files into Monthly Folders**
+
+      - Create a new annotations folder with multiple folders corresponding to a month.
+
+* Description: This exercise organizes valid annotation files into subfolders based on their respective months.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex4_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex4_Out.png)
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex4_Out1.png)
+
+---
+
+### **Exercise 5: Sorting Annotations**
+
+      - Print all the annotations from the most recent to the oldest one. 
+
+* Description: This exercise sorts valid annotation files by date and time in descending order and prints them.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex5_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex5_Out.png)
+
+---
+
+### **Exercise 6: Identifying the Most Recent Annotation Satellite**
+
+      - How many different satellites there are, how many annotations we have per satellite number, and which one was used in the most recent annotation file. 
+
+* Description: This exercise identifies the satellite of the most recent annotation and prints the result.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex6_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex6_Out.png)
+
+---
+
+### **Exercise 7: Counting Unique Regions**
+
+      - How many unique regions there are.
+
+* Description: This exercise counts the number of unique regions identified from the valid annotation files.
+
+* Input:
+
+![Course_gpa_Output](Screenshots/Session%204/Inputs/Session4_Ex7_Inp.png)
+
+* Output:
+
+![Course_gpa_Output](Screenshots/Session%204/Outputs/Session4_Ex7_Out.png)
 
 
