@@ -516,8 +516,8 @@ In Session 3, I explored object-oriented programming concepts in Python. This se
 ![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp2.png)
 
    - Student details such as:
-      - name: "Lucas Brunengo"
-      - age: 21
+      - Name: "Lucas Brunengo"
+      - ID: "LB0202"
 
 * Output:
 
