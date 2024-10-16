@@ -483,16 +483,14 @@ In Session 3, I explored object-oriented programming concepts in Python. This se
 
 * Input:
 
-![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp3.png)
-
-![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp2.png)
-
    - Course details such as:
       - name: "Python Programming"
       - course_type: "Online"
       - Description: "Learn the fundamentals of Python programming."
 
+![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp3.png)
 
+![Course_Class_Input](Screenshots/Session%203/Inputs/Session3_Ex1_Inp2.png)
 
 * Output:
 
@@ -511,13 +509,14 @@ In Session 3, I explored object-oriented programming concepts in Python. This se
 
 * Input:
 
-![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp.png)
-
-![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp2.png)
-
    - Student details such as:
       - Name: "Lucas Brunengo"
       - ID: "LB0202"
+
+
+![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp.png)
+
+![Course_Student_Input](Screenshots/Session%203/Inputs/Session3_Ex2_Inp2.png)
 
 * Output:
 
@@ -538,6 +537,8 @@ In Session 3, I explored object-oriented programming concepts in Python. This se
 
 * Input:
 
+   - Course object to add to the registration system.
+
 ![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp.png)
 
 ![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp2.png)
@@ -545,8 +546,6 @@ In Session 3, I explored object-oriented programming concepts in Python. This se
 ![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp3.png)
 
 ![Course_Registration_Input](Screenshots/Session%203/Inputs/Session3_Ex3_Inp4.png)
-
-   - Course object to add to the registration system.
 
 * Output:
 
