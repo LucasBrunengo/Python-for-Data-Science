@@ -97,7 +97,6 @@ This repository contains solutions to various exercises focused on Python progra
 │   ├── Session 4/
 │   │   ├── Python Class 4.ipynb
 │   │   └── README.md
-=======
 </pre>
 
 # **Session 1**
