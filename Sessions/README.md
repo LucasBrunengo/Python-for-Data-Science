@@ -19,6 +19,9 @@ This folder contains solutions to various exercises, organized by session. Each 
 │   ├── Session 3/
 │   │   ├── Python Class 3.ipynb
 │   │   └── README.md
+│   ├── Session 4/
+│   │   ├── Python Class 4.ipynb
+│   │   └── README.md
 </pre>
 
 ## Files Overview
@@ -32,3 +35,5 @@ This folder contains solutions to various exercises, organized by session. Each 
 - **Session 3**: 
   - This session delves into more advanced topics such as file handling, error management, and object-oriented programming (OOP). Exercises cover reading from and writing to files, handling exceptions gracefully, and designing classes to encapsulate data and behavior.
 
+- **Session 4**:
+  - This session focuses on processing annotation files based on specific naming conventions. Exercises include counting files in a directory, validating file names, counting annotations per month, organizing files into monthly folders, sorting annotations, identifying the most recent annotation satellite, and counting unique regions. These tasks enhance skills in file handling, string manipulation, and data organization.
