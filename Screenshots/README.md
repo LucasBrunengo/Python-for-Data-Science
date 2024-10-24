@@ -24,10 +24,16 @@ Screenshots/
 │       └── screenshot_output_2.png
 │
 └── Session 3/
+│   ├── Inputs/
+│   │   └── screenshot_input_3.png
+│   ├── Outputs/
+│        └── screenshot_output_3.png
+│
+└── Session 4/
     ├── Inputs/
-    │   └── screenshot_input_3.png
+    │   └── screenshot_input_4.png
     ├── Outputs/
-        └── screenshot_output_3.png
+        └── screenshot_output_4.png
 </pre>
 
 ---
